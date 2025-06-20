@@ -1,0 +1,17 @@
+{
+  "name": "babypanda-oauth-backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "next": "latest",
+    "next-connect": "^0.13.0",
+    "passport": "^0.6.0",
+    "passport-discord": "^0.1.4",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-twitter": "^1.0.4"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
